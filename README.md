@@ -1,11 +1,11 @@
-About telnetlib3
-================
+About telnetlib3-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/telnetlib3-feedstock/blob/main/LICENSE.txt)
 
 Home: http://telnetlib3.rtfd.org/
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/telnetlib3-feedstock/blob/main/LICENSE.txt)
 
 Summary: Python 3 asyncio Telnet server and client Protocol library
 
