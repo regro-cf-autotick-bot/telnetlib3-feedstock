@@ -1,5 +1,5 @@
 {% set name = "telnetlib3" %}
-{% set version = "1.0.4" %}
+{% set version = "2.0.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/jquast/{{ name }}/archive/refs/tags/{{ version }}.tar.gz
-  sha256: f911a81b9e6607fd8516ce3f40c9ef1a43b6b290b1f21b15237a83a1be6e4a61
+  sha256: 861edc8eddb449e43efef55d51adfd30badebe017b0dac217757a8707a650c0c
 
 build:
   entry_points:
